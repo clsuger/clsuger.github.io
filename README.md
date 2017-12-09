@@ -1,2 +1,3 @@
-copyright Google 2015. getmdl.io
-for personal use
+# https://clsoplosenord.ga/
+Copyright Google 2015. getmdl.io</br>
+Used for personal use.
