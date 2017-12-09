@@ -1,25 +1,2 @@
-
-w
-h
-a
-t
-a
-r
-e
-y
-o
-u
-d
-o
-i
-n
-g
-i
-n
-m
-y
-s
-w
-a
-m
-p
+copyright Google 2015. getmdl.io
+for personal use
